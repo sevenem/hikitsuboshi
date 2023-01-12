@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: who is sevenem?
+title: 私について
+subtitle: こんにちは
 ---
 
-My name is Tom O'Sullivan. I like
+私はひきつぼしのトーマスと申します。よろしくお願いします。
 
-- computers
-- learning languages
-- travelling
+### これは？
 
-### My story
-
-I committed myself to learn coding for web development in January 2023. I blog about my experiences and thoughts here.
+これは日本語で書ける場所になっています。自分の思いや考えを自由に置くところです。プログラミングやパソコン等のことは[ここにあります](sevenem.github.io)(英語ですみません）。
